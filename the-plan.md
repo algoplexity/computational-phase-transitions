@@ -23,7 +23,7 @@ We are not writing a "sequel"; we are writing a "paradigm shift." The manuscript
 3.  **Methodology: The AIT Physicist.**
     *   *The Innovation:* A Transformer (TRM) pre-trained on the laws of physics (ECA rules), not on stock prices. It is a "Universal Diagnostic Agent."
     *   *The Metric:* Moving from "Predictive Error" (Coherence Meter) to **"Rule Topology"** (The Phase Portrait).
-4.  **Systematic Validation (The Falcon Gauntlet).**
+4.  **Systematic Validation (The Structural Break Gauntlet).**
     *   *The Stat:* -27% Lead Time on the CrunchDAO benchmark.
     *   *The Flex:* Zero-shot generalization to out-of-sample data.
 5.  **The Discovery: A Taxonomy of Crashes.**
